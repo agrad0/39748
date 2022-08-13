@@ -1,0 +1,19 @@
+html{
+    width: 50em;
+}
+div{
+    background-color: #faebd6;
+    padding:10px;
+}
+h1{
+    padding:0;
+    margin:0;
+    color: #ff0000
+}
+p{
+    color: #00008f
+}
+
+h1 + p{
+    color: #a42423
+}
